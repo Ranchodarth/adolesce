@@ -1,5 +1,7 @@
 # testpro
 
+<!-- 个人项目，暂时打算做个人简介 -->
+
 ## Project setup
 ```
 npm install
